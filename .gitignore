@@ -26,3 +26,8 @@ go.work
 .vscode/
 *.swp
 *.swo
+
+# Docker
+.docker/
+docker-compose.override.yml
+.env
